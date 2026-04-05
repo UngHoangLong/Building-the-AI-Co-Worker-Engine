@@ -1,0 +1,21 @@
+{
+  "session_id": "demo-session-1",
+  "trust_score": 40,
+  "tension_score": 30,
+  "patience_level": 95,
+  "list_task_done": [false, false, false],
+  "current_internal_monologue": "Nhân sự mới này có vẻ thích kiểm soát. Cách tiếp cận này hoàn toàn sai lầm với Gucci.",
+  "history_internal_monologue": [
+    "Nhân sự mới này có vẻ thích kiểm soát. Cách tiếp cận này hoàn toàn sai lầm với Gucci."
+  ],
+  "chat_history": [
+    {
+      "role": "user",
+      "content": "Chào sếp, em muốn áp dụng KPI chung cho tất cả các brand."
+    },
+    {
+      "role": "ai",
+      "content": "Tôi không chắc cô hiểu rõ mô hình của Gucci Group. Chúng ta có 9 thương hiệu độc lập..."
+    }
+  ]
+}

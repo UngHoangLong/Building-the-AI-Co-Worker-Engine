@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+redis
+pydantic
+langgraph
+pinecone-client
+openai
+httpx
+python-dotenv
